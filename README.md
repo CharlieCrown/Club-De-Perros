@@ -15,5 +15,3 @@ Descripción:
 <img src="./img/cap1.PNG" alt="Inicio" height="500">
 <img src="./img/cap2.PNG" alt="blog" height="500">
 <img src="./img/cap3.PNG" alt="footer" height="500">
-
-[Volver al menú &ldca;](../README.md "Regresar a página principal")
